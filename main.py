@@ -130,6 +130,8 @@ if __name__ == "__main__":
 
         s = myCsvReader.generated_str(myCsvReader,2)
         print(next(s))
+        print("Слияние1")
+
         '''
         print("По строкам:")
         reader.csv_dict_reader_string()
